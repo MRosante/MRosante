@@ -1,9 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     3 hrs 11 mins         █████████████████████████   99.82 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   1 hr 34 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
